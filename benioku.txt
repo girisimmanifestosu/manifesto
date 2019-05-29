@@ -1,0 +1,11 @@
+Merhaba,
+
+Bu manifesto ile Türkiye girişimcilik ekosistemindeki oyuncuların arasındaki ilişkileri düzenlemek istiyoruz. 
+
+Biz girişimciler olarak bu ekosistemin temel oyuncularıyız. Yatırımcılar, müşteriler, üniversiteler ve diğer oyuncuların davranışlarından etkileniyoruz. Bu nedenle bu oyucular ile olan ilişkilerimizi bir düzene koymak için bu manifestoyu kaleme aldık. 
+
+Yazdıklarımızı eleştirebilir ve düzenleme isteklerinde bulunabilirsiniz. Bunun için lütfen 'issues' bölümünden bir kayıt açın. Kayıt açmadan önce daha önceden açılmış mı diye kontrol etmeyi unutmayın. 
+
+Herkese başarılar,
+
+Girişim Manifestosu Ekibi
